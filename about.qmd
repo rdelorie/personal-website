@@ -1,0 +1,12 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+I’m a 3rd year student at Colorado State University studying Ecosystem Science and Sustainability. I'm originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.
+
+Here is a picture of me hiking outside of Leadville, CO!
+
+![](images/IMG_5787.jpg){width="486" height="722"}

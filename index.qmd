@@ -1,0 +1,27 @@
+---
+title: "Welcome"
+about:
+  template: solana
+  image: images/IMG_5787.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rdelorie/
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/rdelorie
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto::rmdelorie@gmail.com
+      target: _blank
+toc: false
+format: html
+---
+
+# Hi, I’m Rachel 👋
+
+Welcome to my personal website. I’m a 3rd year student at Colorado State University studying Ecosystem Science and Sustainability. I'm originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.

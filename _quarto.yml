@@ -1,5 +1,33 @@
 project:
-  title: "personal-website"
+  type: website
+  output-dir: docs
 
-editor: visual
+website:
+  title: "Rachel Delorie"
+  favicon: images/favicon.png
+  site-url: "https://rdelorie.github.io/personal-website/"
+  description: Rachel Delorie's Portfolio
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: GIS.qmd
+        text: GIS
+      - href: Coding.qmd
+        text: Coding
+      - href: images/Resume.pdf
+        text: Resume
+        target: _blank
 
+  page-footer:
+    background: light
+    left: Copyright 2025, Rachel Delorie
+    right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/zcramton/zcramton.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}.
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true

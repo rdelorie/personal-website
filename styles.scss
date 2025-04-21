@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+// Example Bootstrap variable overrides (optional)
+// $body-bg: #ffffff;
+// $font-family-base: 'Helvetica Neue', sans-serif;
+
+/*-- scss:rules --*/
+
+body {
+  max-width: 800px;
+  margin: auto;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
