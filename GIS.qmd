@@ -1,6 +1,10 @@
 ---
-title: "GIS"
+title: "GIS Portfolio"
 format: html
 ---
 
-gis projects listed here
+info about wolverine project
+
+![](images/wolverine-images-0.jpg){width="448"}
+
+![](images/wolverine-images-1.jpg){width="448"}

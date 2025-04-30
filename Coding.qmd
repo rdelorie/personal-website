@@ -3,4 +3,24 @@ title: "Coding"
 format: html
 ---
 
-# coding projects listed here
+## The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science. 
+
+### Lab 1: Personal Portfolio
+
+### Lab 2: Minnesota Tree Growth
+
+### Lab 3: COVID Wrangling
+
+### Lab 4: LTER Network Data
+
+### Lab 5: Final Project Proposals
+
+### Lab 6: Machine Learning in Hydrology
+
+### Lab 7: Project Kickoff
+
+### Lab 8: Machine Learning
+
+### Lab 9: Project Updates
+
+### Lab 10: Distance to The Border
