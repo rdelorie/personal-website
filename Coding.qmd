@@ -3,9 +3,9 @@ title: "Coding"
 format: html
 ---
 
-## The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science. 
+## The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.
 
-### Lab 1: Personal Portfolio
+### [Lab 1: Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
 
 ### Lab 2: Minnesota Tree Growth
 
@@ -15,7 +15,7 @@ format: html
 
 ### Lab 5: Final Project Proposals
 
-### Lab 6: Machine Learning in Hydrology
+### [Lab 6: Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
 
 ### Lab 7: Project Kickoff
 
@@ -23,4 +23,4 @@ format: html
 
 ### Lab 9: Project Updates
 
-### Lab 10: Distance to The Border
+### [Lab 10: Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)
