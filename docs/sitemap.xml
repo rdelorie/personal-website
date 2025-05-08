@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rdelorie.github.io/personal-website/Coding.html</loc>
-    <lastmod>2025-05-02T18:12:45.535Z</lastmod>
+    <lastmod>2025-05-08T21:15:26.680Z</lastmod>
   </url>
   <url>
     <loc>https://rdelorie.github.io/personal-website/index.html</loc>
@@ -10,10 +10,14 @@
   </url>
   <url>
     <loc>https://rdelorie.github.io/personal-website/GIS.html</loc>
-    <lastmod>2025-05-05T18:55:29.489Z</lastmod>
+    <lastmod>2025-05-08T21:15:08.098Z</lastmod>
   </url>
   <url>
     <loc>https://rdelorie.github.io/personal-website/about.html</loc>
     <lastmod>2025-04-21T20:57:55.311Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rdelorie.github.io/personal-website/projects.html</loc>
+    <lastmod>2025-05-08T21:28:50.960Z</lastmod>
   </url>
 </urlset>

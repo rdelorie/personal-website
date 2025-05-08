@@ -3,8 +3,16 @@ title: "GIS Portfolio"
 format: html
 ---
 
+### Wolverine Reintroduction Analysis
+
 The following layout was created for my final project in NR 319, Introduction to Geospatial Sciences for Natural Resources, in the Fall of 2024. The goal of the project was to practice all of the GIS skill acquired throughout the course, including spatial analysis, cartography, and real-world application of geospatial data.
 
 ![](images/wolverine-images-0.jpg){width="448"}
 
 ![](images/wolverine-images-1.jpg){width="448"}
+
+## World Travel
+
+When given the opportunity to "choose my own geospatial adventure" in NR 493, Seminar on GIS and Remote Sensing Applications, I decided to fine tune my cartography skills and create a product that is both informational and visually appealing. I collected the data, years and places my grandmother has traveled, then joined it to a world countries polygons layer. I then used creative style packages and techniques from John Nelson, Esri cartographer, to create the following. I will be collecting feedback and improving this map summer 2025.
+
+![](portfolio/world%20travel.jpg)

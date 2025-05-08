@@ -13,14 +13,14 @@ format: html
 
 ### Lab 4: LTER Network Data
 
-### Lab 5: Final Project Proposals
+### [Lab 5: Final Project Proposals](https://bellaconrad.github.io/ess_final_project/)
 
 ### [Lab 6: Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
 
-### Lab 7: Project Kickoff
+### [Lab 7: Project Kickoff](https://zachary.cramton.com/ess_330_project_proposal/)
 
-### Lab 8: Machine Learning
+### [Lab 8: Machine Learning](https://rdelorie.github.io/lab-6/hyperparameter-tuning.html)
 
-### Lab 9: Project Updates
+### [Lab 9: Project Updates](https://zachary.cramton.com/ess_330_final_project/)
 
 ### [Lab 10: Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)

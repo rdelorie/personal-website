@@ -16,6 +16,8 @@ website:
         text: GIS
       - href: Coding.qmd
         text: Coding
+      - href: projects.qmd
+        text: Projects
       - href: images/Resume.pdf
         text: Resume
         target: _blank

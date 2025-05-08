@@ -26,5 +26,26 @@
     "title": "About",
     "section": "",
     "text": "About Me\nI’m a 3rd year student at Colorado State University studying Ecosystem Science and Sustainability. I’m originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.\nHere is a picture of me hiking outside of Leadville, CO!"
+  },
+  {
+    "objectID": "GIS.html#world-travel",
+    "href": "GIS.html#world-travel",
+    "title": "GIS Portfolio",
+    "section": "World Travel",
+    "text": "World Travel\nWhen given the opportunity to “choose my own geospatial adventure” in NR 493, Seminar on GIS and Remote Sensing Applications, I decided to fine tune my cartography skills and create a product that is both informational and visually appealing. I collected the data, years and places my grandmother has traveled, then joined it to a world countries polygons layer. I then used creative style packages and techniques from John Nelson, Esri cartographer, to create the following. I will be collecting feedback and improving this map summer 2025."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "I have created content to two masters-level courses for a developing program in the Natural Resources Recreation and Tourism department at Colorado State University. Thank you to Dr. Stu Cottrell for the opportunity to contribute to this."
+  },
+  {
+    "objectID": "projects.html#course-development",
+    "href": "projects.html#course-development",
+    "title": "projects",
+    "section": "",
+    "text": "I have created content to two masters-level courses for a developing program in the Natural Resources Recreation and Tourism department at Colorado State University. Thank you to Dr. Stu Cottrell for the opportunity to contribute to this."
   }
 ]
