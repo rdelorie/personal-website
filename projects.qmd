@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "Projects"
 format: html
 ---
 
@@ -10,3 +10,9 @@ I have created content to two masters-level courses for a developing program in 
 ![](portfolio/Screenshot%202025-04-23%20at%2010.45.44%20AM.png){width="762"}
 
 ![](portfolio/Screen%20Shot%202024-05-03%20at%2012.44.03%20PM.png){width="883"}
+
+### Science and Democracy
+
+The following is a proposal created in CO 301B, Writing in the Sciences, to argue for the Way Cup initative created by Wolverine Farm Publick House to be implemented across all coffee shops in the City of Fort Collins.
+
+![](portfolio/Final_Science-and-democracy_Delorie.pdf)

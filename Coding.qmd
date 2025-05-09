@@ -5,22 +5,42 @@ format: html
 
 ## The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.
 
-### [Lab 1: Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
+### Lab 1
 
-### Lab 2: Minnesota Tree Growth
+[Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
 
-### Lab 3: COVID Wrangling
+### Lab 2
 
-### Lab 4: LTER Network Data
+[Minnesota Tree Growth](https://rdelorie.github.io/all-labs/lab-1-wesbite.html)
 
-### [Lab 5: Final Project Proposals](https://bellaconrad.github.io/ess_final_project/)
+### Lab 3
 
-### [Lab 6: Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
+[COVID Wrangling](https://rdelorie.github.io/all-labs/lab-3-website.html)
 
-### [Lab 7: Project Kickoff](https://zachary.cramton.com/ess_330_project_proposal/)
+### Lab 4
 
-### [Lab 8: Machine Learning](https://rdelorie.github.io/lab-6/hyperparameter-tuning.html)
+[LTER Network Data](https://rdelorie.github.io/all-labs/lab-4-website.html)
 
-### [Lab 9: Project Updates](https://zachary.cramton.com/ess_330_final_project/)
+### Lab 5
 
-### [Lab 10: Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)
+[Final Project Proposals](https://bellaconrad.github.io/ess_final_project/)
+
+### Lab 6
+
+[Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
+
+### Lab 7
+
+[Project Kickoff](https://zachary.cramton.com/ess_330_project_proposal/)
+
+### Lab 8
+
+[Machine Learning](https://rdelorie.github.io/lab-6/hyperparameter-tuning.html)
+
+### Lab 9
+
+[Project Updates](https://zachary.cramton.com/ess_330_final_project/)
+
+### Lab 10
+
+[Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)

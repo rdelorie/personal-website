@@ -7,8 +7,6 @@ format: html
 
 The following layout was created for my final project in NR 319, Introduction to Geospatial Sciences for Natural Resources, in the Fall of 2024. The goal of the project was to practice all of the GIS skill acquired throughout the course, including spatial analysis, cartography, and real-world application of geospatial data.
 
-![](images/wolverine-images-0.jpg){width="448"}
-
 ![](images/wolverine-images-1.jpg){width="448"}
 
 ## World Travel
