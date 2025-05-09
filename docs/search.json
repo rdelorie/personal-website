@@ -2,16 +2,16 @@
   {
     "objectID": "Coding.html",
     "href": "Coding.html",
-    "title": "Coding",
+    "title": "Coding Labs",
     "section": "",
-    "text": "Personal Portfolio\n\n\n\nMinnesota Tree Growth\n\n\n\nCOVID Wrangling\n\n\n\nLTER Network Data\n\n\n\nFinal Project Proposals\n\n\n\nMachine Learning in Hydrology\n\n\n\nProject Kickoff\n\n\n\nMachine Learning\n\n\n\nProject Updates\n\n\n\nDistance to The Border"
+    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build a website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
   },
   {
     "objectID": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
     "href": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
-    "title": "Coding",
+    "title": "Coding Labs",
     "section": "",
-    "text": "Personal Portfolio\n\n\n\nMinnesota Tree Growth\n\n\n\nCOVID Wrangling\n\n\n\nLTER Network Data\n\n\n\nFinal Project Proposals\n\n\n\nMachine Learning in Hydrology\n\n\n\nProject Kickoff\n\n\n\nMachine Learning\n\n\n\nProject Updates\n\n\n\nDistance to The Border"
+    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build a website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
   },
   {
     "objectID": "index.html",

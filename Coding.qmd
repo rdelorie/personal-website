@@ -1,5 +1,5 @@
 ---
-title: "Coding"
+title: "Coding Labs"
 format: html
 ---
 
@@ -7,40 +7,88 @@ format: html
 
 ### Lab 1
 
+![](images/Screenshot 2025-05-09 at 3.12.15 PM.png){width="133"}
+
 [Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
+
+From this lab I learned how to use Quarto and build a website using Github.
 
 ### Lab 2
 
+![](images/Screenshot 2025-05-09 at 3.12.22 PM.png)
+
 [Minnesota Tree Growth](https://rdelorie.github.io/all-labs/lab-1-wesbite.html)
+
+In this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.
 
 ### Lab 3
 
+![](images/Screenshot 2025-05-09 at 3.12.26 PM.png)
+
 [COVID Wrangling](https://rdelorie.github.io/all-labs/lab-3-website.html)
+
+In the COVID wrangling lab I learned how to make a flextable.
 
 ### Lab 4
 
+![](images/Screenshot 2025-05-09 at 3.16.33 PM.png)
+
 [LTER Network Data](https://rdelorie.github.io/all-labs/lab-4-website.html)
+
+In lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.
 
 ### Lab 5
 
+![](images/Screenshot 2025-05-09 at 3.12.30 PM.png)
+
 [Final Project Proposals](https://bellaconrad.github.io/ess_final_project/)
+
+In lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.
 
 ### Lab 6
 
+![](images/Screenshot 2025-05-09 at 3.12.34 PM.png)
+
 [Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
+
+In lab 6 I learned how to use workflows.
 
 ### Lab 7
 
+![](images/Screenshot 2025-05-09 at 3.12.38 PM.png)
+
 [Project Kickoff](https://zachary.cramton.com/ess_330_project_proposal/)
+
+In lab 7 I expanded upon what was created in lab 5 for the course's final project.
 
 ### Lab 8
 
+![](images/Screenshot 2025-05-09 at 3.16.38 PM.png)
+
 [Machine Learning](https://rdelorie.github.io/lab-6/hyperparameter-tuning.html)
+
+In lab 8 I learned how to tune a model created with tidymodels.
 
 ### Lab 9
 
+![](images/Screenshot 2025-05-09 at 3.12.41 PM.png)
+
 [Project Updates](https://zachary.cramton.com/ess_330_final_project/)
+
+In lab 9 I expanded upon what was created in lab 5 for the course's final project.
 
 ### Lab 10
 
+![](images/Screenshot 2025-05-09 at 3.12.45 PM.png)
+
 [Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)
+
+In lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.
+
+### Lab 11
+
+![](images/Screenshot 2025-05-09 at 3.21.47 PM.png){width="157"}
+
+[Lightning Talk](https://colostate-my.sharepoint.com/:p:/g/personal/rdelorie_colostate_edu/EXWKf0KYLGdLjaxOEuKEjJABcC7bEyH2zGCGXq85iaZRJw?e=ueZCff)
+
+For lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces.
