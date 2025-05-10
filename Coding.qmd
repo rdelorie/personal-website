@@ -7,7 +7,7 @@ format: html
 
 ### Lab 1
 
-![](images/Screenshot 2025-05-09 at 3.12.15 PM.png){width="133"}
+![](images/image-7.png){width="138"}
 
 [Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
 
@@ -15,7 +15,7 @@ From this lab I learned how to use Quarto and build a website using Github.
 
 ### Lab 2
 
-![](images/Screenshot 2025-05-09 at 3.12.22 PM.png)
+![](images/image-8.png){width="150"}
 
 [Minnesota Tree Growth](https://rdelorie.github.io/all-labs/lab-1-wesbite.html)
 
@@ -23,7 +23,7 @@ In this lab, I learned how to use essential dplyr functions including filter, mu
 
 ### Lab 3
 
-![](images/Screenshot 2025-05-09 at 3.12.26 PM.png)
+![](images/image-2.png){width="169"}
 
 [COVID Wrangling](https://rdelorie.github.io/all-labs/lab-3-website.html)
 
@@ -31,7 +31,7 @@ In the COVID wrangling lab I learned how to make a flextable.
 
 ### Lab 4
 
-![](images/Screenshot 2025-05-09 at 3.16.33 PM.png)
+![](images/image-11.png){width="158"}
 
 [LTER Network Data](https://rdelorie.github.io/all-labs/lab-4-website.html)
 
@@ -39,7 +39,7 @@ In lab 4 I learned how to conduct statistical tests such as t.test or shapiro.te
 
 ### Lab 5
 
-![](images/Screenshot 2025-05-09 at 3.12.30 PM.png)
+![](images/image-3.png){width="148"}
 
 [Final Project Proposals](https://bellaconrad.github.io/ess_final_project/)
 
@@ -47,7 +47,7 @@ In lab 5 I learned how to make a Quarto manuscript and use Quarto to create a ci
 
 ### Lab 6
 
-![](images/Screenshot 2025-05-09 at 3.12.34 PM.png)
+![](images/image-4.png){width="171"}
 
 [Machine Learning in Hydrology](https://rdelorie.github.io/lab-6/)
 
@@ -55,7 +55,7 @@ In lab 6 I learned how to use workflows.
 
 ### Lab 7
 
-![](images/Screenshot 2025-05-09 at 3.12.38 PM.png)
+![](images/image-5.png){width="141"}
 
 [Project Kickoff](https://zachary.cramton.com/ess_330_project_proposal/)
 
@@ -63,7 +63,7 @@ In lab 7 I expanded upon what was created in lab 5 for the course's final projec
 
 ### Lab 8
 
-![](images/Screenshot 2025-05-09 at 3.16.38 PM.png)
+![](images/image-10.png){width="150"}
 
 [Machine Learning](https://rdelorie.github.io/lab-6/hyperparameter-tuning.html)
 
@@ -71,7 +71,7 @@ In lab 8 I learned how to tune a model created with tidymodels.
 
 ### Lab 9
 
-![](images/Screenshot 2025-05-09 at 3.12.41 PM.png)
+![](images/image-6.png){width="156"}
 
 [Project Updates](https://zachary.cramton.com/ess_330_final_project/)
 
@@ -79,7 +79,7 @@ In lab 9 I expanded upon what was created in lab 5 for the course's final projec
 
 ### Lab 10
 
-![](images/Screenshot 2025-05-09 at 3.12.45 PM.png)
+![](images/image-9.png){width="159"}
 
 [Distance to The Border](https://rdelorie.github.io/lab-9/lab-9.html)
 
@@ -87,7 +87,7 @@ In lab 10 I learned how to use sf_distance to calculate the distance between two
 
 ### Lab 11
 
-![](images/Screenshot 2025-05-09 at 3.21.47 PM.png){width="157"}
+![](images/image-12.png){width="150"}
 
 [Lightning Talk](https://colostate-my.sharepoint.com/:p:/g/personal/rdelorie_colostate_edu/EXWKf0KYLGdLjaxOEuKEjJABcC7bEyH2zGCGXq85iaZRJw?e=ueZCff)
 
