@@ -24,4 +24,4 @@ format: html
 
 # Hi, I’m Rachel 👋
 
-Welcome to my personal website. I’m a 3rd year student at Colorado State University studying Ecosystem Science and Sustainability. I'm originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.
+Welcome to my personal website. I’m a 4th year student at Colorado State University studying Ecosystem Science and Sustainability. I am interested in environmental compliance, GIS, ornithology, and restoration.
