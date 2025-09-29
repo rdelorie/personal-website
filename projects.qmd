@@ -3,6 +3,12 @@ title: "Projects"
 format: html
 ---
 
+## Qualitative Research
+
+Below is "Perceived Environmental Responsibility: How Undergraduate Students’ Educational and Social Background Influences Their Role in Addressing Sustainability Challenges". This mixed methods research report was created for ESS 312, Sustainability Science.
+
+![](portfolio/ESS%20312%20Final%20Paper.pdf)
+
 ## Course Development
 
 I have created content to two masters-level courses for a developing program in the Natural Resources Recreation and Tourism department at Colorado State University. Thank you to Dr. Stu Cottrell for the opportunity to contribute to this.
