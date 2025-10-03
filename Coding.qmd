@@ -9,9 +9,9 @@ format: html
 
 ![](images/image-7.png){width="138"}
 
-[Personal Portfolio](rdelorie.github.io/rmdelorie.github.io/)
+[Personal Portfolio](https://rdelorie.github.io/personal-website/)
 
-From this lab I learned how to use Quarto and build a website using Github.
+From this lab I learned how to use Quarto and build this website using Github.
 
 ### Lab 2
 
