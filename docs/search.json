@@ -18,21 +18,21 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi, I’m Rachel 👋\nWelcome to my personal website. I’m a 4th year student at Colorado State University studying Ecosystem Science and Sustainability. I am interested in environmental compliance, GIS, ornithology, and restoration."
+    "text": "I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
   },
   {
     "objectID": "GIS.html",
     "href": "GIS.html",
     "title": "GIS Portfolio",
     "section": "",
-    "text": "The following layout was created for my final project in NR 319, Introduction to Geospatial Sciences for Natural Resources, in the Fall of 2024. The goal of the project was to practice all of the GIS skill acquired throughout the course, including spatial analysis, cartography, and real-world application of spatial data."
+    "text": "https://experience.arcgis.com/experience/c594f76f615a4569b2d09dbe821c5206"
   },
   {
     "objectID": "GIS.html#world-travel",
     "href": "GIS.html#world-travel",
     "title": "GIS Portfolio",
     "section": "World Travel",
-    "text": "World Travel\nWhen given the opportunity to “choose my own geospatial adventure” in NR 493, Seminar on GIS and Remote Sensing Applications, I decided to fine tune my cartography skills and create a product that is both informational and visually appealing. I collected the data, years and places my grandmother has traveled, then joined it to a world countries polygons layer. I then used creative style packages and techniques from John Nelson, Esri cartographer, to create the following. I will be collecting feedback and improving this map Fall 2025.\n\n\nWhat’s Next\nFall of 2025 I will be taking NR450, Geospatial Project Design and Analysis, where I will develop and execute an independent project on wildlife habitat fragmentation due to oil and gas infrastructure in Weld County, Colorado."
+    "text": "World Travel\nWhen given the opportunity to “choose my own geospatial adventure” in NR 493, Seminar on GIS and Remote Sensing Applications, I decided to fine tune my cartography skills and create a product that is both informational and visually appealing. I collected the data, years and places my grandmother has traveled, then joined it to a world countries polygons layer. I then used creative style packages and techniques from John Nelson, Esri cartographer, to create the following. I will be collecting feedback and improving this map Fall 2025."
   },
   {
     "objectID": "projects.html",
@@ -45,8 +45,8 @@
     "objectID": "projects.html#qualitative-research",
     "href": "projects.html#qualitative-research",
     "title": "Projects",
-    "section": "",
-    "text": "Below is “Perceived Environmental Responsibility: How Undergraduate Students’ Educational and Social Background Influences Their Role in Addressing Sustainability Challenges”. This mixed methods research report was created for ESS 312, Sustainability Science."
+    "section": "Qualitative Research",
+    "text": "Qualitative Research\nBelow is “Perceived Environmental Responsibility: How Undergraduate Students’ Educational and Social Background Influences Their Role in Addressing Sustainability Challenges”. This mixed methods research report was created for ESS 312, Sustainability Science."
   },
   {
     "objectID": "projects.html#course-development",
@@ -58,8 +58,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About Me\nI’m a 4th year student at Colorado State University studying Ecosystem Science and Sustainability. I’m originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.\nHere is a picture of me hiking outside of Leadville, CO!"
+    "text": "I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
   }
 ]

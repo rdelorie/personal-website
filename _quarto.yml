@@ -18,7 +18,7 @@ website:
         text: Coding
       - href: projects.qmd
         text: Projects
-      - href: images/Resume.pdf
+      - href: portfolio/NR_Resume_1-31-2026-Delorie.pdf
         text: Resume
         target: _blank
 

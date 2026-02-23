@@ -1,12 +1,8 @@
 ---
-title: "About"
+title: "About Me"
 format: html
 ---
 
-# About Me
+I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet.
 
-I’m a 4th year student at Colorado State University studying Ecosystem Science and Sustainability. I'm originally from the seacoast of New Hampshire, but came out to Colorado for school. I am interested in environmental compliance, GIS, ornithology, and restoration.
-
-Here is a picture of me hiking outside of Leadville, CO!
-
-![](images/IMG_5787.jpg){width="486" height="722"}
+![](images/Rachel-Delorie.jpg){fig-align="center" width="255"}

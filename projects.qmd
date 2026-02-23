@@ -3,6 +3,12 @@ title: "Projects"
 format: html
 ---
 
+## Public Communications and Outreach
+
+![](portfolio/Spring-Creek-deliverable.png){fig-align="left" width="439"}
+
+![](portfolio/Springcreek-writeup.pdf){fig-align="left"}
+
 ## Qualitative Research
 
 Below is "Perceived Environmental Responsibility: How Undergraduate Students’ Educational and Social Background Influences Their Role in Addressing Sustainability Challenges". This mixed methods research report was created for ESS 312, Sustainability Science.
