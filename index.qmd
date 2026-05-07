@@ -2,7 +2,7 @@
 title: "Welcome"
 about:
   template: jolla
-  image: images/Rachel-Delorie.jpg
+  image: images/headshot.jpg
   image-shape: rounded
   image-width: 15em
   links:
@@ -22,4 +22,4 @@ toc: false
 format: html
 ---
 
-I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet.
+I am a student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet.

@@ -3,6 +3,12 @@ title: "Projects"
 format: html
 ---
 
+## Practicing Sustainability
+
+In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky.
+
+![](portfolio/ESS440-report.pdf){fig-align="center"}
+
 ## Public Communications and Outreach
 
 ![](portfolio/Spring-Creek-deliverable.png){fig-align="left" width="439"}

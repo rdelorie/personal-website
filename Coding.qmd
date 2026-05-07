@@ -3,6 +3,8 @@ title: "Coding Labs"
 format: html
 ---
 
+## I am currently enrolled in ESS 523a, Environmental Data Science Applications. Code updates from this course will be available soon.
+
 ## The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.
 
 ### Lab 1

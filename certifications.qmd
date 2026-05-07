@@ -1,0 +1,6 @@
+---
+title: "Awards and Certifications"
+format: html
+---
+
+![](portfolio/citiCompletionCertificate_14143432_67713949.pdf){fig-align="center"}

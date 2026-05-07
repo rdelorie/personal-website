@@ -1,0 +1,83 @@
+---
+title: "Module 2 Assignment: Exploratory Data Analysis"
+author: "Rachel Delorie"
+date: "`r Sys.Date()`"
+output: html_document
+Echo: TRUE
+---
+```{r Setup}
+source("Setup.R")
+data("penguins")
+```
+
+Why don’t the following lines of code work? Tweak each one so the code runs (3 pts.)
+```{r}
+penguins[1:5, c("species","island")] 
+# c was missing to combine the columns.
+
+penguins$flipper_length_mm
+# length was misspelled.
+
+penguins["island"=='Dream']
+# Island needed to be in parentheses. 
+```
+
+Find the average flipper length for each species. Which species has the largest flippers? (2 pts.)
+```{r}
+penguins %>% 
+  select(species, flipper_length_mm) %>% #select relevant columns
+  group_by(species) %>% # group by species
+  summarise(flipper_length_avg = mean(flipper_length_mm, na.rm = TRUE)) %>% #calculate mean and make new df
+  slice_max(flipper_length_avg, n=1) %>%  #take largest value
+print()
+
+# Gentoo is the species with the largest flippers, with an average flipper length of 217.187 mm. 
+```
+
+Which is the only species that was sampled across all three islands in this study? You must use {dplyr} functions to answer this question (e.g., group_by() …) (2 pts.)
+```{r}
+penguins %>% 
+  select(species, island) %>% # select relevant columns
+  group_by(island, species) %>% #group by island and species
+  summarize(n = n()) %>% # count number of rows in each group
+  filter(species %in% c("Gentoo", "Chinstrap", "Adelie")) %>% # filters for island where species column exists for all 3 species
+    print()
+
+# Adelie is the only species that was sampled across all three islands in this study.
+```
+
+Reorder the variables in penguins so that year is the first column followed by the rest (Hint: look into the use of everything()). (2 pts.)
+```{r}
+penguins %>% 
+  select(year, everything()) %>% # move year to the front of the df
+  print()
+```
+
+Create a new column called ‘size_group’ where individuals with body mass greater than the overall average are called ‘large’ and those smaller are called ‘small’. (Note: this answer requires the additional use of both the if_else() and mean() functions. Remember how to deal with NA values in mean()). (4 pts.)
+```{r}
+penguins %>% 
+  mutate(size_group = if_else(body_mass_g > mean(body_mass_g, na.rm = TRUE), "large", "small")) %>% 
+  print()
+```
+
+You want to filter data for years that are not in a vector of given years, but this code doesn’t work. Tweak it so that it does. (Yes, you could just filter year to equal 2007 in this case but there is a trouble-shooting lessons here). (2 pts.)
+```{r}
+penguins %>% 
+  filter(!(year %in% c(2008, 2009))) %>% # the ! was in the wrong place
+print()
+```
+
+Using the visualization techniques you learned today, create a figure that allows you to visualize some comparison of your choice among the penguins data set. Below your figure write a testable hypothesis about the data and the patterns you see from this figure. (5 pts.)
+```{r}
+penguins %>%
+  filter(species == "Gentoo") %>% 
+  ggplot(aes(x = body_mass_g, y = flipper_length_mm)) +
+  geom_point(aes(color = sex), size = 3) +
+  labs(
+    title = "Body Mass vs. Flipper Length in Gentoo Penguins",
+    caption = "Hypothesis: Male Gentoo penguins have a larger body mass than female Gentoo penguins.", 
+    x = "Body Mass (g)",
+    y = "Flipper Length (mm)" ) +
+    theme_minimal()
+```
+

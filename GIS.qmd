@@ -5,6 +5,14 @@ format: html
 
 ### Raptor Suitability
 
+The following is a final report from NR 450, Geospatial Project Design and Analysis. In this course, my project partner and I designed and implemented a geospatial project from conception to completion. We produced an experience builder page, report, and presentation to effectively communicate project findings to technical and non-technical audiences.
+
+##### Final Report
+
+![](portfolio/Final Report - Rachel and Mabel.pdf){fig-align="center"}
+
+##### Experience Builder Page
+
 <https://experience.arcgis.com/experience/c594f76f615a4569b2d09dbe821c5206>
 
 ### Wolverine Reintroduction Analysis

@@ -4,28 +4,28 @@
     "href": "Coding.html",
     "title": "Coding Labs",
     "section": "",
-    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
+    "text": "&lt;iframe\nsrc=“embeds/Mod2_assignment.html”\nwidth=“100%”\nheight=“800px”\nstyle=“border:none;”&gt;\n&lt;/iframe&gt;"
   },
   {
     "objectID": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
     "href": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
     "title": "Coding Labs",
-    "section": "",
-    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
+    "section": "The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.",
+    "text": "The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.\n\nLab 1\n\nPersonal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\nLab 2\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\nLab 3\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\nLab 4\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\nLab 5\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\nLab 6\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\nLab 7\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\nLab 8\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\nLab 9\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\nLab 10\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\nLab 11\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
+    "text": "I am a student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
   },
   {
     "objectID": "GIS.html",
     "href": "GIS.html",
     "title": "GIS Portfolio",
     "section": "",
-    "text": "https://experience.arcgis.com/experience/c594f76f615a4569b2d09dbe821c5206"
+    "text": "The following is a final report from NR 450, Geospatial Project Design and Analysis. In this course, my project partner and I designed and implemented a geospatial project from conception to completion. We produced an experience builder page, report, and presentation to effectively communicate project findings to technical and non-technical audiences.\n\n\n\n\n\n\n\n\n\n\nhttps://experience.arcgis.com/experience/c594f76f615a4569b2d09dbe821c5206"
   },
   {
     "objectID": "GIS.html#world-travel",
@@ -39,7 +39,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below is “Perceived Environmental Responsibility: How Undergraduate Students’ Educational and Social Background Influences Their Role in Addressing Sustainability Challenges”. This mixed methods research report was created for ESS 312, Sustainability Science."
+    "text": "In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky."
   },
   {
     "objectID": "projects.html#qualitative-research",
@@ -58,8 +58,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "Rachel Delorie",
     "section": "",
-    "text": "I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
+    "text": "I am a student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Rachel Delorie",
+    "section": "",
+    "text": "I am a student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet."
+  },
+  {
+    "objectID": "certifications.html",
+    "href": "certifications.html",
+    "title": "Awards and Certifications",
+    "section": "",
+    "text": "LinkedIn Profile\n\n Rachel Delorie"
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "Rachel Delorie",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\n Rachel Delorie"
+  },
+  {
+    "objectID": "projects.html#practicing-sustainability",
+    "href": "projects.html#practicing-sustainability",
+    "title": "Projects",
+    "section": "",
+    "text": "In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky."
+  },
+  {
+    "objectID": "projects.html#public-communications-and-outreach",
+    "href": "projects.html#public-communications-and-outreach",
+    "title": "Projects",
+    "section": "Public Communications and Outreach",
+    "text": "Public Communications and Outreach"
+  },
+  {
+    "objectID": "Coding.html#the-following-.html-documents-are-from-ess-523a-environmental-data-science-application.",
+    "href": "Coding.html#the-following-.html-documents-are-from-ess-523a-environmental-data-science-application.",
+    "title": "Coding Labs",
+    "section": "",
+    "text": "&lt;iframe\nsrc=“embeds/Mod2_assignment.html”\nwidth=“100%”\nheight=“800px”\nstyle=“border:none;”&gt;\n&lt;/iframe&gt;"
   }
 ]

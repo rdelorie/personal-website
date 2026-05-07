@@ -1,8 +1,28 @@
 ---
-title: "About Me"
-format: html
+image: images/headshot.jpg
+
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: rectangle
+
+format: 
+  html:
+    page-layout: article
 ---
 
-I am a 4th year student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Bachelors of Science in May 2026 and Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet.
+```{=html}
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+```
 
-![](images/Rachel-Delorie.jpg){fig-align="center" width="255"}
+## About Me
+
+I am a student at Colorado State University studying Ecosystem Science and Sustainability, graduating with my Professional Science Masters in May 2027. I am deeply committed to the conservation of the natural world, with a focus in addressing the challenges of climate change through collaborative, community-driven solutions. I am pursuing a career in environmental science because I want to make a positive, lasting impact on our planet.
+
+## Connect With Me
+
+::: {.badge-base .LI-profile-badge data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="rdelorie" data-version="v1"}
+<a
+    class="badge-base__link LI-simple-link"
+    href="https://www.linkedin.com/in/rdelorie/"> Rachel Delorie </a>
+:::
