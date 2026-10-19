@@ -9,7 +9,7 @@ The following is a final report from NR 450, Geospatial Project Design and Analy
 
 ##### Final Report
 
-![](portfolio/Final Report - Rachel and Mabel.pdf){fig-align="center"}
+![](portfolio/Final%20Report%20-%20Rachel%20and%20Mabel.pdf){fig-align="center"}
 
 ##### Experience Builder Page
 

@@ -4,14 +4,14 @@
     "href": "Coding.html",
     "title": "Coding Labs",
     "section": "",
-    "text": "&lt;iframe\nsrc=“embeds/Mod2_assignment.html”\nwidth=“100%”\nheight=“800px”\nstyle=“border:none;”&gt;\n&lt;/iframe&gt;"
+    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
   },
   {
     "objectID": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
     "href": "Coding.html#the-following-labs-are-from-ess-330-quantitative-reasoning-for-ecosystem-science.",
     "title": "Coding Labs",
-    "section": "The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.",
-    "text": "The following labs are from ESS 330, Quantitative Reasoning for Ecosystem Science.\n\nLab 1\n\nPersonal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\nLab 2\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\nLab 3\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\nLab 4\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\nLab 5\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\nLab 6\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\nLab 7\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\nLab 8\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\nLab 9\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\nLab 10\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\nLab 11\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
+    "section": "",
+    "text": "Personal Portfolio\nFrom this lab I learned how to use Quarto and build this website using Github.\n\n\n\n\nMinnesota Tree Growth\nIn this lab, I learned how to use essential dplyr functions including filter, mutate, and rename.\n\n\n\n\nCOVID Wrangling\nIn the COVID wrangling lab I learned how to make a flextable.\n\n\n\n\nLTER Network Data\nIn lab 4 I learned how to conduct statistical tests such as t.test or shapiro.test on a data set.\n\n\n\n\nFinal Project Proposals\nIn lab 5 I learned how to make a Quarto manuscript and use Quarto to create a citations page.\n\n\n\n\nMachine Learning in Hydrology\nIn lab 6 I learned how to use workflows.\n\n\n\n\nProject Kickoff\nIn lab 7 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nMachine Learning\nIn lab 8 I learned how to tune a model created with tidymodels.\n\n\n\n\nProject Updates\nIn lab 9 I expanded upon what was created in lab 5 for the course’s final project.\n\n\n\n\nDistance to The Border\nIn lab 10 I learned how to use sf_distance to calculate the distance between two places in an sf object.\n\n\n\n\nLightning Talk\nFor lab 11 my group mates and I gave a lightning talk to our lab section on urban population density vs access to open spaces."
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky."
+    "text": "In ESS 555 - Life Cycle Analysis, I compared the impacts of artificial turf to natural grass lawns. This study uses comparative LCIA methodology as per ISO 14040 guidelines to evaluate cradle-to-gate environmental impacts of both turf materials."
   },
   {
     "objectID": "projects.html#qualitative-research",
@@ -87,8 +87,8 @@
     "objectID": "projects.html#practicing-sustainability",
     "href": "projects.html#practicing-sustainability",
     "title": "Projects",
-    "section": "",
-    "text": "In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky."
+    "section": "Practicing Sustainability",
+    "text": "Practicing Sustainability\nIn my capstone course, Practicing Sustainability, I collaborated with 5 classmates to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky."
   },
   {
     "objectID": "projects.html#public-communications-and-outreach",
@@ -103,5 +103,12 @@
     "title": "Coding Labs",
     "section": "",
     "text": "&lt;iframe\nsrc=“embeds/Mod2_assignment.html”\nwidth=“100%”\nheight=“800px”\nstyle=“border:none;”&gt;\n&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "projects.html#life-cycle-impact-assessment",
+    "href": "projects.html#life-cycle-impact-assessment",
+    "title": "Projects",
+    "section": "",
+    "text": "In ESS 555 - Life Cycle Analysis, I compared the impacts of artificial turf to natural grass lawns. This study uses comparative LCIA methodology as per ISO 14040 guidelines to evaluate cradle-to-gate environmental impacts of both turf materials."
   }
 ]

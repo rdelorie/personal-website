@@ -3,11 +3,17 @@ title: "Projects"
 format: html
 ---
 
+## Life Cycle Impact Assessment
+
+In ESS 555 - Life Cycle Analysis, I compared the impacts of artificial turf to natural grass lawns. This study uses comparative LCIA methodology as per ISO 14040 guidelines to evaluate cradle-to-gate environmental impacts of both turf materials.
+
+![](portfolio/LCA-Report.pdf)
+
 ## Practicing Sustainability
 
-In my capstone course, Practicing Sustainability, I collaborated with 5 other students to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky.
+In my capstone course, Practicing Sustainability, I collaborated with 5 classmates to develop a list of wise practices for the Appalachian Rekindling Project as they plan a bison reintroduction in Eastern Kentucky.
 
-![](portfolio/ESS440-report.pdf){fig-align="center"}
+![](portfolio/ESS440-report.pdf)
 
 ## Public Communications and Outreach
 
